@@ -4,6 +4,8 @@
 
 ![project](https://img.shields.io/badge/project-streetstyle%20homepage-green)
 ![skill](https://img.shields.io/badge/skill-css-yellow)
+## Live link
+[Netlify](https://street-style-page1.netlify.app/)
 
 # Street style.
  In this Street style project I used html and css and it is responsive I learn more about flexbox and others properties of css with media quries. Thanks to the Ineuron team. 
@@ -12,7 +14,7 @@
 * CSS
 
 # Time.
-8 hours
+6 hours
 
 # Learn from the project.
 * Designing button
