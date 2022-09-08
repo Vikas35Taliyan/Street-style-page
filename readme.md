@@ -8,7 +8,7 @@
 [Netlify](https://street-style-page1.netlify.app/)
 
 # Street style.
- In this Street style project I used html and css and it is responsive I learn more about flexbox and others properties of css with media quries. Thanks to the Ineuron team. 
+ In this Street style project I used HTML and CSS and I learn more about flexbox and others properties of css. Thanks to the Ineuron team. 
 # Skills.
 * HTML
 * CSS
@@ -18,7 +18,6 @@
 
 # Learn from the project.
 * Designing button
-* card using flexbox
 * positions
 * CSS text
 * css colors
