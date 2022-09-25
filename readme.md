@@ -8,7 +8,7 @@
 [Netlify](https://street-style-page1.netlify.app/)
 
 # Street style.
- In this Street style project I used HTML and CSS and I learn more about flexbox and others properties of css. Thanks to the Ineuron team. 
+ In This Street style project I used HTML and CSS and I learn more about flexbox and others properties of CSS. Thanks to the Ineuron Team. 
 # Skills.
 * HTML
 * CSS
@@ -17,18 +17,18 @@
 6 hours
 
 # Learn from the project.
-* Designing button
-* positions
-* CSS text
-* css colors
-* Box model
+* Designing button.
+* Positions.
+* CSS text.
+* CSS colors.
+* Box model.
 
 # Screenshot of project.
 
 ![2](./screenshot/street%20page.PNG)
 
 ## Thanks to-
-![Thanks](https://img.shields.io/badge/Thanks-Hitesh%20choudhary-yellowgreen)
-![Thanks](https://img.shields.io/badge/Thanks-Ineuron-green)
+![Thanks](https://img.shields.io/badge/THANKS-Hitesh%20choudhary-yellowgreen)
+![Thanks](https://img.shields.io/badge/THANKS-Ineuron-green)
 
 
